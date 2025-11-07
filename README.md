@@ -28,12 +28,12 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 
 ## 📊 KPI Requirements
 
-| KPI               | Description                                               |
-|------------------|-----------------------------------------------------------|
-| **Total Sales**   | Overall revenue from items sold                          |
-| **Average Sales** | Average revenue per sale                                 |
-| **Number of Items**| Total count of unique items sold                         |
-| **Average Rating**| Mean customer rating for all sold items                  |
+| KPI                | Description                                               |
+|------------------  |-----------------------------------------------------------|
+| **Total Sales**    | Overall revenue from items sold                           |
+| **Average Sales**  | Average revenue per sale                                  |
+| **Number of Items**| Total count of unique items sold                          |
+| **Average Rating** | Mean customer rating for all sold items                   |
 
 ---
 
@@ -90,9 +90,6 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 
 ## 📁 Project Structure
 
-
-
-
 ---
 
 ## 🧠 Key Insights
@@ -104,14 +101,6 @@ To conduct a comprehensive analysis of Blinkit's sales data to identify performa
 
 ---
 
-## 👨‍💻 Author
-
-**Gembali Rohit**  
-Aspiring AI/ML Engineer | Data Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/rohit-gembali)  
-📂 [Project Repository](https://github.com/gembalirohit/my-datascience-projects)
-
----
 
 ## ⚠️ Disclaimer
 
